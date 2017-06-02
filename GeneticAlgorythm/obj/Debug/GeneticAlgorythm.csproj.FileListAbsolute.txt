@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.exe
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.pdb
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.exe
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.pdb
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\MomAndDadAlgorytm.exe
+c:\users\user\documents\visual studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.exe.config
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.exe
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.exe
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\GeneticAlgorythm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\MomAndDadAlgorytm.exe
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\bin\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.Form1.resources
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.Properties.Resources.resources
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\obj\Debug\GeneticAlgorythm.csproj.GenerateResource.Cache

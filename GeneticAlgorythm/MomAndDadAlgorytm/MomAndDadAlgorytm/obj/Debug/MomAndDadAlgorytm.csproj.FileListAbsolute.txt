@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.pdb
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.exe
+c:\users\user\documents\visual studio 2015\Projects\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe.config
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.exe
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\bin\Debug\MomAndDadAlgorytm.pdb
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.exe
+C:\Users\User\Desktop\GeneticAlgorythm\GeneticAlgorythm\MomAndDadAlgorytm\MomAndDadAlgorytm\obj\Debug\MomAndDadAlgorytm.pdb
